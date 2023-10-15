@@ -25,8 +25,8 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Santosh Yadav",
-  title: "Web Designer & Content Creator",
-  email: "naturedgrp@gmail.xom",
+  title: "Web Developer",
+  email: "naturedgrp@gmail.com",
   gitHub: "microsoft",
   instagram: "microsoft",
   linkedIn: "santosh10",
